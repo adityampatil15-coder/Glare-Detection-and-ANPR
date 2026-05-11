@@ -1,0 +1,5 @@
+train: C:\Users\Aditya\project\dataset\train\images
+val: C:\Users\Aditya\project\dataset\val\images
+
+nc: 1
+names: ['number_plate']
